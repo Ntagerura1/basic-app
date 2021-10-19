@@ -1,0 +1,91 @@
+.pagewrapper{
+    display: flex;
+    flex-direction: row;
+ 
+
+    
+
+}
+
+.titletext{
+    text-align: center;
+}
+.div1{
+    width: 15%;
+}
+.middlediv{
+    width: 70%;
+    border: 1px solid #999;
+    border-radius: 10px;
+    height: 100%;
+}
+.div3{
+    width: 15%;
+}
+.secandtext{
+    margin-left: 15%;
+}
+.personaldetails{
+    width:40%;
+    border: 1px solid #999;
+    height: 400px;
+    padding: 20px;
+    margin-left: 15%;
+
+}
+.text{
+    /* text-overflow: inherit; */
+}
+.legend{
+    font-weight: 700;
+    margin-left: 17%;
+}
+.applyingcheck{
+    width: 40%;
+    border: 1px solid #999;
+    margin-top: 7px;
+    margin-left: 15%;
+    padding: 20px;
+    height: 150px;
+}
+.dropdown{
+    width: 40%;
+    border: 1px solid #999;
+    margin-top: 7px;
+    margin-left: 15%;
+    padding: 20px;
+    height: 50px;
+}
+.EssaySection{
+    width: 40%;
+    border: 1px solid #999;
+    margin-top: 7px;
+    margin-left: 15%;
+    padding: 20px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+.button {
+    margin: 2px;
+    font-size: 15px;
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+}
+  
+.button {
+    font-size: 18px;
+    background-color:red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 2px;
+    text-align: center;
+  }
+  .submitbutton{
+      width: 25%;
+      margin-bottom:2%;
+      margin-left: 25%;
+  }
